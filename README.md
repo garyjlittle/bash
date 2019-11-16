@@ -2,7 +2,7 @@
 Everyone loves bash
 
 - Example scripts:
-  - cli-argv : Usigin positional command line arguments to bash scripts.
+  - cli-argv : Using positional command line arguments to bash scripts.
 
 if then else.
 
