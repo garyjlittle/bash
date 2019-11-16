@@ -3,6 +3,20 @@
 - Example scripts:
   - cli-argv : Using positional command line arguments to bash scripts.
 
+- [Snippets](#snippets)
+  * [Check for root-ness](#check-for-root-ness)
+    + [Sequences e.g. for loops](#sequences-eg-for-loops)
+    + [Generate a RUNID - Uniqe ID](#generate-a-runid---uniqe-id)
+    + [Generate a random number within a range](#generate-a-random-number-within-a-range)
+    + [Get rid of parentheses in scripts](#get-rid-of-parentheses-in-scripts)
+    + [Check for rootness](#check-for-rootness)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
+# Snippets
+
 ## Check for root-ness
 e.g. - Check to see if user is root, and exit if so.
 ```
