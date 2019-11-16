@@ -1,6 +1,9 @@
 # bash
 Everyone loves bash
 
+- Example scripts:
+  - cli-argv : Usigin positional command line arguments to bash scripts.
+
 if then else.
 
 ## Check for root-ness
