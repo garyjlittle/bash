@@ -2,6 +2,7 @@
 
 - Example scripts:
   - cli-argv : Using positional command line arguments to bash scripts.
+  - getopts : Using arguments and options with getopt built in.
 
 - [Snippets](#snippets)
   * [Check for root-ness](#check-for-root-ness)
