@@ -1,11 +1,11 @@
-# bash
-Everyone loves bash
+# Scripts
 
 - Example scripts:
   - cli-argv : Using positional command line arguments to bash scripts.
 
 if then else.
 
+# Snippets
 ## Check for root-ness
 e.g. - Check to see if user is root, and exit if so.
 ```
