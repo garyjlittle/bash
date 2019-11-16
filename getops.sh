@@ -32,4 +32,4 @@ done
 
 if [ ! -z $DEST  ]; then echo "The Destination is $DEST" ; fi
 if [ ! -z $SOURCE ]; then echo "The Source is $SOURCE" ; fi
-if [  $VERBOSE -gt 0 ]; then echo "Varboseness is $VERBOSE" ; fi
+if [  $VERBOSE -gt 0 ]; then echo "Verboseness is $VERBOSE" ; fi
