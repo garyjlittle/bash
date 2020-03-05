@@ -23,6 +23,12 @@ e.g. - Check to see if user is root, and exit if so.
 ```
  if [[ `id -u` -eq 0 ]]  ; then echo "You are root - run this script as postgres"; exit 1 ;fi
 ```
+## Check for empty parameters and variables
+```
+if [[ -z $PARAM ]] ; then
+  echo $PARAM is empty
+  exit 1
+fi
 
 ### Sequences e.g. for loops
 Generate a sequence of numbers between 20 and 25
@@ -31,7 +37,6 @@ Generate a sequence of numbers between 20 and 25
  for i in $(seq 20 25) ; do echo ">" $i ; done
  ```
  
-
 ### Generate a RUNID - Uniqe ID
 Creates a unique id based on current time and PID. Year,Month,Day,Time-PID is quite human readable.
 ```
