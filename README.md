@@ -29,7 +29,7 @@ if [[ -z $PARAM ]] ; then
   echo $PARAM is empty
   exit 1
 fi
-
+```
 ### Sequences e.g. for loops
 Generate a sequence of numbers between 20 and 25
 * Using seq
