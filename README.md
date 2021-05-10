@@ -1,6 +1,6 @@
 # Scripts
-Some small scripts showing bash usage.
-Idiomatic snippets in the main "ontheline" repo [here:](https://github.com/garyjlittle/ontheline/blob/master/docs/bash-shell-scripts.md)
+* This specific repo is a place to stoe some small scripts showing bash usage in the context of a script.
+* Cut/paste snippets in the main "ontheline" repo [here:](https://github.com/garyjlittle/ontheline/blob/master/docs/bash-shell-scripts.md)
 - Example scripts:
   - [cli-argv](cli-argv.sh) : Using positional command line arguments to bash scripts.
   - [getopts](getopts.sh) : Using arguments and options with getopt built in.
